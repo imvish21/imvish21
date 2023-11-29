@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Vishal Kumar</h1>
-<h3 align="center">A passionate frontend developer from India and working to become a full stack MERN developer.</h3>
+<h3 align="center">A passionate MERN Dev from India and working to become a skilled web developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imvish21&label=Profile%20views&color=0e75b6&style=flat" alt="imvish21" /> </p>
 
