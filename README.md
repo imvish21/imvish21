@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Vishal Kumar</h1>
-<h3 align="center">A passionate MERN Dev from India and working to become a skilled Web Developer.</h3>
+<h3 align="center">A passionate Full stack MERN Dev from India and working to become a skilled Software Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imvish21&label=Profile%20views&color=0e75b6&style=flat" alt="imvish21" /> </p>
 
@@ -10,11 +10,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Node.JS and Express.JS**
+- 🌱 I’m currently learning **Typescript, Redux and Next.js**
 
 - 👨‍💻 All of my projects are available at [https://port-vish-folio.netlify.app/](https://port-vish-folio.netlify.app/)
 
-- 💬 Ask me about **React,GSAP,Javascript**
+- 💬 Ask me about **MERN Stack, GSAP, Javascript, Blockchain**
 
 - 📫 How to reach me **imvgupta21@gmail.com**
 
