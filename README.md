@@ -1,5 +1,3 @@
-[![MasterHead]()](https://port-vish-folio.netlify.app/) 
-
 
 <h1 align="center">Hi 👋, I'm Vishal Kumar</h1>
 <h3 align="center">A passionate Full stack MERN Dev from India and working to become a skilled Software Developer.</h3>
